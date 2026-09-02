@@ -2,7 +2,7 @@ name: Daily Learning Update
 
 on:
   schedule:
-    - cron: "5 15 * * *"   # 8:35 PM IST
+    - cron: "40 6 * * *"   # 12:10 PM IST
   workflow_dispatch:
 
 permissions:
